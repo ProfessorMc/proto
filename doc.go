@@ -2,6 +2,6 @@
 package proto
 
 import (
-	_ "github.com/ProfessorMc/proto/protbuf"
-	_ "github.com/ProfessorMc/proto/protbuf/compiler"
+	_ "github.com/ProfessorMc/proto/google/protobuf"
+	_ "github.com/ProfessorMc/proto/google/protobuf/compiler"
 )
